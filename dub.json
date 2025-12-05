@@ -1,0 +1,11 @@
+{
+    "name": "process_hollowing",
+    "description": " Advanced process hollowing and manipulation toolkit",
+    "authors": [
+        "kernelstub"
+    ],
+    "license": "MIT",
+    "dependencies": {},
+    "targetType": "executable",
+    "sourcePaths": ["source"]
+}
